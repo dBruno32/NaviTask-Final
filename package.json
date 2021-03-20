@@ -1,0 +1,26 @@
+{
+  "name": "NaviTask-Final",
+  "version": "1.0.0",
+  "description": "NaviTask is my Final Project for Software Engineering - Spring 2021;  Navigate through tasks and collaborate with a team to efficiently guide you through your projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dBruno32/NaviTask-Final.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dBruno32/NaviTask-Final/issues"
+  },
+  "homepage": "https://github.com/dBruno32/NaviTask-Final#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.1",
+    "node": "^15.10.0",
+    "nodemon": "^2.0.7"
+  }
+}
